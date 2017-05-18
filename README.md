@@ -13,5 +13,7 @@ You can create one for free here: https://github.com/ ( https://github.com/ )
 
 3. Git Setup:
 
+``` 
 $ git config --global user.name "[name]"
-$ git config --global user.email "[email address]"
+$ git config --global user.email "[email address]" 
+```
