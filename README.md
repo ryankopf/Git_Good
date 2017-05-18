@@ -5,11 +5,11 @@ Requirements:
 
 1. Have Git Installed.
 
-Download Git (free): https://git-scm.com/downloads ( https://git-scm.com/downloads )
+-   Download Git (free): https://git-scm.com/downloads
 
 2. Have a GitHub Profile.
 
-You can create one for free here: https://github.com/ ( https://github.com/ )
+ -  You can create one for free here: https://github.com/
 
 3. Git Setup:
 
